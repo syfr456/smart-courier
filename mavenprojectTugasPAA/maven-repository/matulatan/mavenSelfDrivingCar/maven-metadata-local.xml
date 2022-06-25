@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>matulatan</groupId>
+  <artifactId>mavenSelfDrivingCar</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200404001635</lastUpdated>
+  </versioning>
+</metadata>
